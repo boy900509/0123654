@@ -1,0 +1,155 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "",
+                "name": "詮營停車場",
+                "phone": ".",
+                "address": "台南市永康區正新街中華路893巷 &710",
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "台南市",
+                "town": "永康區",
+                "cunli": ".",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.22351340809386,
+                    23.020317052976118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "",
+                "name": "叭叭房停車場(奇美永康場)",
+                "phone": "",
+                "address": "710台南市永康區中華路901號",
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "",
+                "note": "",
+                "custom_note": "",
+                "website": "",
+                "county": "台南市",
+                "town": "永康區",
+                "cunli": "",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2208241814044,
+                    23.020334484213688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "",
+                "name": "尚頂公園停車場",
+                "phone": "",
+                "address": "710台南市永康區中華路135巷1弄25-29號",
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "",
+                "note": "",
+                "custom_note": "",
+                "website": "",
+                "county": "台南市",
+                "town": "永康區",
+                "cunli": "",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.22232621835053,
+                    23.023178297859317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "",
+                "name": "CITY PARKING 城市車旅停車場(奇美雅舍站)",
+                "phone": "",
+                "address": "710台南市永康區中華路990號",
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "",
+                "note": "",
+                "custom_note": "",
+                "website": "",
+                "county": "台南市",
+                "town": "永康區",
+                "cunli": "",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.22395700132064,
+                    23.02211187477089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "",
+                "name": "中華世貿停車場",
+                "phone": "",
+                "address": "710台南市永康區六合路48巷39號",
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "",
+                "note": "",
+                "custom_note": "",
+                "website": "",
+                "county": "台南市",
+                "town": "永康區",
+                "cunli": "",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.23480201923094,
+                    23.010876657779683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "",
+                "name": "台灣大車位-永康新興街場",
+                "phone": "",
+                "address": "710台南市永康區新興街35巷31號",
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "",
+                "note": "",
+                "custom_note": "",
+                "website": "",
+                "county": "台南市",
+                "town": "永康區",
+                "cunli": "",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.23188882926009,
+                    23.013949048269115
+                ]
+            }
+        }
+    ]
+}
