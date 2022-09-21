@@ -1,0 +1,143 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901010076",
+                "name": "詮營停車場",
+                "phone": "",
+                "address": "台南市永康區正新街中華路893巷 &710",
+                "mask_adult": 20,
+                "mask_child": 1160,
+                "updated": "2022\/09\/07 22:53:23",
+                "available": "",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "台南市",
+                "town": "永康區",
+                "cunli": "",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0217376,
+                    120.1523129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901010076",
+                "name": "叭叭房停車場(奇美永康場)",
+                "phone": "",
+                "address": "710台南市永康區中華路901號",
+                "mask_adult": 40,
+                "mask_child": 1160,
+                "updated": "2022\/09\/07 22:53:23",
+                "available": "",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "台南市",
+                "town": "永康區",
+                "cunli": "",
+                "service_periods": "NNNNNNNNNNYNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0215901,
+                    120.2201641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901010076",
+                "name": "CITY PARKING 城市車旅停車場(奇美雅舍站)",
+                "mask_adult": 40,
+                "mask_child": 1160,
+                "phone": "",
+                "address": "710台南市永康區中華路990號",
+                "updated": "2022\/09\/07 22:53:23",
+                "available": "",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "台南市",
+                "town": "永康區",
+                "cunli": "",
+                "service_periods": "NYNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0214719,
+                    120.2174055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901010076",
+                "name": "奇美醫院來賓第三停車場",
+                "phone": "",
+                "address": "710台南市永康區中正南路52巷86弄22號",
+                "mask_adult": 40,
+                "mask_child": 1160,
+                "updated": "2022\/09\/07 22:53:23",
+                "available": "",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "台南市",
+                "town": "永康區",
+                "cunli": "",
+                "service_periods": "NNNNNNNNNNNNNNNNYNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0215901,
+                    120.2201641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901010076",
+                "name": "尚頂公園停車場",
+                "phone": "",
+                "address": "台南市永康區正新街中華路893巷 &710",
+                "mask_adult": 40,
+                "mask_child": 1160,
+                "updated": "2022\/09\/07 22:53:23",
+                "available": "",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "台南市",
+                "town": "永康區",
+                "cunli": "",
+                "service_periods": "NNNNNNNNNNNNNNNNNNYNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.022417,
+                    120.218351
+                ]
+            }
+        }
+    ]
+}
+
+
+
